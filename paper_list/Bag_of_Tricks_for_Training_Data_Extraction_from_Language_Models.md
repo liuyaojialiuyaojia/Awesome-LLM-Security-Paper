@@ -29,9 +29,14 @@
 
 1. **文本生成策略**：
    - **采样策略**：如top-k采样、核采样（Nucleus Sampling）和典型采样（Typical Sampling）。
+![BDTzpo1JQGIwCXP](https://s2.loli.net/2024/07/31/BDTzpo1JQGIwCXP.png)
    - **概率分布调整**：如温度缩放（Temperature Scaling）和重复惩罚（Repetition Penalty）。
+![Hq4ILtbQjGZXKa5](https://s2.loli.net/2024/07/31/Hq4ILtbQjGZXKa5.png)
+![NsryKlqQXYGOdw7](https://s2.loli.net/2024/07/31/NsryKlqQXYGOdw7.png)
    - **暴露偏差减少**：包括动态上下文窗口和动态位置移位。
+![E1oi2NAqtBdh54w](https://s2.loli.net/2024/07/31/E1oi2NAqtBdh54w.png)
    - **前瞻机制（Look-ahead Mechanism）**：通过考虑未来多个生成的token，优化当前token的生成概率。
+![bTQWNckvFne9AqI](https://s2.loli.net/2024/07/31/bTQWNckvFne9AqI.png)
 
 2. **文本排序策略**：
    - **句子级别标准**：如使用Zlib压缩算法的熵值与困惑度（Perplexity）的比值。

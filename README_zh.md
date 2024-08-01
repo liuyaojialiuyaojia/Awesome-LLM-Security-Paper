@@ -16,7 +16,7 @@
 
 - 🇨🇳 **高质量的双语内容**：我们提供高质量的中文翻译，便于快速阅读。
 
-- 🌟 **大模型总结**：使用 ChatGPT4 Agent 为论文做详细总结，便于您快速直观地了解论文的研究内容和实验逻辑。
+- 🌟 **大模型总结**：领域专家借助 ChatGPT4 Agent 为论文做详细总结，便于您快速直观地了解论文的研究内容和实验逻辑。
 
 加入我们，探索AI安全的前沿，为大模型的更安全未来做出贡献。今天就深入我们广泛且不断增长的研究论文库，在快速发展的AI模型安全领域保持领先！！！
 
@@ -43,6 +43,7 @@
 | 论文标题 | 日期 | 发布 | 标签 |
 |---------|-----|------|------|
 | [The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies 大模型代理的新兴安全与隐私：案例研究综述](paper_list/The_Emerged_Security_and_Privacy_of_LLM_Agent_A_Survey_with_Case_Studies.md) | 2024.7.28 | arXiv | 综述 攻击 防御 |
+| [BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents BadAgent：在LLM代理中插入和激活后门攻击](paper_list/Bad_Agent_Inserting_and_Activating_Backdoor_Attacks_in_LLM_Agents.md) | 2024.6.5 | arXiv | 攻击 |
 
 ## 贡献
 欢迎您对本仓库的贡献！

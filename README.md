@@ -18,7 +18,7 @@ As the field of artificial intelligence rapidly evolves, so do the security chal
 
 - 🇨🇳 **High-Quality translation Content**: Access high-quality articles in Chinese, catering to a global audience and promoting cross-language collaboration.
 
-- 🌟 **Big Model Summary**: Using ChatGPT4 Agent to provide a detailed summary of the paper for a quick understanding of the paper's logic.
+- 🌟 **Big Model Summary**: Domain experts collaborate with ChatGPT4 Agent to provide a detailed summary of the paper for a quick understanding of the paper's logic.
 
 Join us in exploring the cutting-edge of AI security and contribute to a safer future for large models. Dive into our extensive and ever-growing collection of research papers today, stay ahead in the rapidly evolving field of AI model security ! ! !
 
@@ -45,6 +45,7 @@ Join us in exploring the cutting-edge of AI security and contribute to a safer f
 | Title | Date | Published | Tag |
 |-------|------|-----------|-----|
 | [The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies](paper_list/The_Emerged_Security_and_Privacy_of_LLM_Agent_A_Survey_with_Case_Studies.md) | 2024.7.28 | arXiv | Survey Attack Defense  |
+| [BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents](paper_list/Bad_Agent_Inserting_and_Activating_Backdoor_Attacks_in_LLM_Agents.md) | 2024.6.5 | arXiv | Attack |
 
 ## Contributing
 your contributions are always welcome!
