@@ -46,6 +46,7 @@ Join us in exploring the cutting-edge of AI security and contribute to a safer f
 |-------|------|-----------|-----|
 | [The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies](paper_list/The_Emerged_Security_and_Privacy_of_LLM_Agent_A_Survey_with_Case_Studies.md) | 2024.7.28 | arXiv | Survey Attack Defense  |
 | [BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents](paper_list/Bad_Agent_Inserting_and_Activating_Backdoor_Attacks_in_LLM_Agents.md) | 2024.6.5 | arXiv | Attack |
+| [INJECAGENT: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents](paper_list/INJECAGENT_Benchmarking_Indirect_Prompt_Injections_in_Tool-Integrated_Large_Language_Model_Agents.md) | 2024.3.24 | arXiv | Attack Prompt-injection |
 
 ## Contributing
 your contributions are always welcome!
