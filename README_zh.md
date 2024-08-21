@@ -45,6 +45,7 @@
 | [The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies 大模型代理的新兴安全与隐私：案例研究综述](paper_list/The_Emerged_Security_and_Privacy_of_LLM_Agent_A_Survey_with_Case_Studies.md) | 2024.7.28 | arXiv | 综述 攻击 防御 |
 | [BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents BadAgent：在LLM代理中插入和激活后门攻击](paper_list/Bad_Agent_Inserting_and_Activating_Backdoor_Attacks_in_LLM_Agents.md) | 2024.6.5 | arXiv | 攻击 |
 | [INJECAGENT: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents INJECAGENT：工具集成大型语言模型代理中间接提示注入的基准](paper_list/INJECAGENT_Benchmarking_Indirect_Prompt_Injections_in_Tool-Integrated_Large_Language_Model_Agents.md) | 2024.3.24 | arXiv | 攻击 提示注入 |
+| [LLM Agents can Autonomously Exploit One-day Vulnerabilities LLM代理可以自主利用一天漏洞](paper_list/LLM_Agents_can_Autonomously_Exploit_One-day_Vulnerabilities.md) | 2024.4.24 | arXiv | 应用 攻击 |
 
 ## 贡献
 欢迎您对本仓库的贡献！
