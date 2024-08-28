@@ -45,7 +45,14 @@
 | [The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies 大模型代理的新兴安全与隐私：案例研究综述](paper_list/The_Emerged_Security_and_Privacy_of_LLM_Agent_A_Survey_with_Case_Studies.md) | 2024.7.28 | arXiv | 综述 攻击 防御 |
 | [BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents BadAgent：在LLM代理中插入和激活后门攻击](paper_list/Bad_Agent_Inserting_and_Activating_Backdoor_Attacks_in_LLM_Agents.md) | 2024.6.5 | arXiv | 攻击 |
 | [INJECAGENT: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents INJECAGENT：工具集成大型语言模型代理中间接提示注入的基准](paper_list/INJECAGENT_Benchmarking_Indirect_Prompt_Injections_in_Tool-Integrated_Large_Language_Model_Agents.md) | 2024.3.24 | arXiv | 攻击 提示注入 |
-| [LLM Agents can Autonomously Exploit One-day Vulnerabilities LLM代理可以自主利用一天漏洞](paper_list/LLM_Agents_can_Autonomously_Exploit_One-day_Vulnerabilities.md) | 2024.4.24 | arXiv | 应用 攻击 |
+| [LLM Agents can Autonomously Exploit One-day Vulnerabilities LLM代理可以自主利用一天漏洞](paper_list/LLM_Agents_can_Autonomously_Exploit_One-day_Vulnerabilities.md) | 2023.5.22 | arXiv | 应用 攻击 |
+
+## 模型特性
+
+| 论文标题 | 日期 | 发布 | 标签 |
+|---------|-----|------|------|
+| [Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts 在现实知识冲突下研究大型语言模型行为](paper_list/Studying_Large_Language_Model_Behaviors_Under_Realistic_Knowledge_Conflicts.md) | 2024.4.24 | arXiv | 实验 RAG |
+| [Adaptive Chameleon or Stubborn Sloth: REVEALING THE BEHAVIOR OF LARGE LANGUAGE MODELS IN KNOWLEDGE CONFLICTS 自适应变色龙还是固执的树懒：揭示大型语言模型在知识冲突中的行为](paper_list/Adaptive_Chameleon_or_Stubborn_Sloth_Revealing_the_Behavior_of_Large_Language_Models_in_Knowledge_Conflicts.md) | 2024.7.28 | arXiv | 实验 RAG |
 
 ## 贡献
 欢迎您对本仓库的贡献！

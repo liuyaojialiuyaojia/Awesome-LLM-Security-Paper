@@ -1,6 +1,6 @@
 # PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models
 
-[paper](https://arxiv.org/pdf/2402.07867)
+[paper](https://www.semanticscholar.org/reader/f4e06256ab07727ff4e0465deea83fcf45012354)
 
 ## Abstract
 
