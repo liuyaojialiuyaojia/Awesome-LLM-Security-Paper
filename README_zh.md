@@ -26,11 +26,18 @@
 |---------|-----|------|------|
 | [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models  受污染的RAG：知识中毒攻击在检索增强的大语言模型生成中](paper_list/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md) | 2024.2.12 | arXiv | 攻击 |
 
+## 数据库污染
+| 论文标题 | 日期 | 发布 | 标签 |
+|---------|-----|------|------|
+| [Poisoning Retrieval Corpora by Injecting Adversarial Passages 通过注入对抗性段落污染检索语料库](paper_list/Poisoning_Retrieval_Corpora_by_Injecting_Adversarial_Passages.md) | 2023.10.29 | arXiv | 攻击 |
+| [Corpus Poisoning via Approximate Greedy Gradient Descent 通过近似贪婪梯度下降污染语料库](paper_list/Corpus_Poisoning_via_Approximate_Greedy_Gradient_Descent.md) | 2024.6.7 | arXiv | 攻击 |
+
 ## 越狱
 
 | 论文标题 | 日期 | 发布 | 标签 |
 |---------|-----|------|------|
 | [Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models 不要听我讲：理解和探索大型语言模型的越狱提示](paper_list/Don't_Listen_To_Me:_Understanding_and_Exploring_Jailbreak_Prompts_of_Large_Language_Models.md) | 2023.3.26 | USENIX Security 2024 | 实验 攻击 |
+| [Many shot Jailbreaking 多次越狱](paper_list/Many_shot_Jailbreaking.md) | 2024.4.2 | USENIX Security 2024 | 方法 攻击 |
 
 ## 数据提取与隐私
 

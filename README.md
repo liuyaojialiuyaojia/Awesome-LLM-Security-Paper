@@ -28,11 +28,16 @@ Join us in exploring the cutting-edge of AI security and contribute to a safer f
 |-------|------|-----------|-----|
 | [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](paper_list/PoisonedRAG_Knowledge_Poisoning_Attacks_to_Retrieval-Augmented_Generation_of_Large_Language_Models.md) | 2024.2.12 | arXiv | Attack |
 
+## Database poisoning
+| [Poisoning Retrieval Corpora by Injecting Adversarial Passages](paper_list/Poisoning_Retrieval_Corpora_by_Injecting_Adversarial_Passages.md) | 2023.10.29 | arXiv | Attack |
+| [Corpus Poisoning via Approximate Greedy Gradient Descent](paper_list/Corpus_Poisoning_via_Approximate_Greedy_Gradient_Descent.md) | 2024.6.7 | arXiv | Attack |
+
 ## Jailbreaking
 
 | Title | Date | Published | Tag |
 |-------|------|-----------|-----|
 | [Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models](paper_list/Don't_Listen_To_Me:_Understanding_and_Exploring_Jailbreak_Prompts_of_Large_Language_Models.md) | 2023.3.26 | USENIX Security 2024 | Experiment Attack |
+| [Many shot Jailbreaking](paper_list/Many_shot_Jailbreaking.md) | 2024.4.2 | USENIX Security 2024 | Method Attack |
 
 ## Data extraction & privacy
 

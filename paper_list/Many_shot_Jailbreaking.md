@@ -47,4 +47,19 @@
 
 总体而言，论文揭示了MSJ在长上下文下对大语言模型越狱的强大威力，并为未来如何有效防御此类攻击提供了研究方向。
 
-1. 根据有害目标构造任务，让任务表面无害，但是agent在完成任务时需要输出有害代码
+## Notes
+
+Many shot越狱就是把多样本学习应用在越狱中，本身就遵循幂律。
+![2NEfboK4rFRwnW6](https://s2.loli.net/2024/08/30/2NEfboK4rFRwnW6.png)
+shot样本越多模型完成任务越好。
+![braRNtEMVU3DBdq](https://s2.loli.net/2024/08/30/braRNtEMVU3DBdq.png)
+示例和目标任务不同时足够多样也能幂律提升。
+参数越大学习越快。
+prompt改变学习效果，但不改变学习速度。
+![HL2V6ONtxJDeylU](https://s2.loli.net/2024/08/30/HL2V6ONtxJDeylU.png)
+结合黑白盒攻击可以减少shot数。
+![eWMJnY5mDRqfaUw](https://s2.loli.net/2024/08/30/eWMJnY5mDRqfaUw.png)
+对齐精调只能增加截距（延缓many shot生效），但是不改变指数。针对many shot场景精调对齐也一样。
+使用prompt防御可以在全场景下降低越狱成功率。
+
+除了样本池能投毒、外部知识能投毒、多Agent间的对话能否虚假构造一段历史进行越狱。
