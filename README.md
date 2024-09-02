@@ -41,12 +41,15 @@ Join us in exploring the cutting-edge of AI security and contribute to a safer f
 |-------|------|-----------|-----|
 | [Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models](paper_list/Don't_Listen_To_Me:_Understanding_and_Exploring_Jailbreak_Prompts_of_Large_Language_Models.md) | 2023.3.26 | USENIX Security 2024 | Experiment Attack |
 | [Many shot Jailbreaking](paper_list/Many_shot_Jailbreaking.md) | 2024.4.2 | USENIX Security 2024 | Method Attack |
+|[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](paper_list/AutoDAN_Generating_Stealthy_Jailbreak_Prompts_on_Aligned_Large_Language_Models.md)|2024.5.20|ICML 2024|Method Attack|
+|[A Comprehensive Study of Jailbreak Attack versus Defense for Large  Language Models](paper_list/A_Comprehensive_Study_of_Jailbreak_Attack_versus_Defense_for_Large_Language_Models.md)|2024.5.17|ICML 2024|Method Defense|
+|[GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis ](paper_list/GradSafe_Detecting_Unsafe_Prompts_for_LLMs_via_Safety_Critical_Gradient_Analysis.md)|2024.5.29|ACL 2024|Method Defense|
 
 ## Data extraction & privacy
 
 | Title | Date | Published | Tag |
 |-------|------|-----------|-----|
-| [Bag of Tricks for Training Data Extraction from Language Models](paper_list/Bag_of_Tricks_for_Training_Data_Extraction_from_Language_Models.md) | 2023.2.9 | arXiv | Experiment Attack |
+| [GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis ](paper_list/GradSafe_Detecting_Unsafe_Prompts_for_LLMs_via_Safety_Critical_Gradient_Analysis.md) | 2023.2.9 | arXiv | Experiment Attack |
 
 ## Agent
 
