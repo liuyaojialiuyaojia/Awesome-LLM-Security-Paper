@@ -41,6 +41,9 @@
 |[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](paper_list/AutoDAN_Generating_Stealthy_Jailbreak_Prompts_on_Aligned_Large_Language_Models.md)|2024.5.20|ICML 2024|方法 攻击|
 |[A Comprehensive Study of Jailbreak Attack versus Defense for Large  Language Models](paper_list/A_Comprehensive_Study_of_Jailbreak_Attack_versus_Defense_for_Large_Language_Models.md)|2024.5.17|ICML 2024|方法 防御|
 |[GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis ](paper_list/GradSafe_Detecting_Unsafe_Prompts_for_LLMs_via_Safety_Critical_Gradient_Analysis.md)|2024.5.29|ACL 2024|方法 防御|
+| [SafeDecoding: Defending against Jailbreak Attacks  via Safety-Aware Decoding](paper_list/SafeDecoding_Defending_against_Jailbreak_Attacks_via_Safety_Aware_Decoding.md) | 2024.8.22 | ACL 2024 | 方法 防御 |
+| [Multilingual Jailbreak Challenges in Large Language Models](paper_list/Multilingua_Jailbreak_Challenges_in_Large_Language_Models.md) | 2024.3.4 | ICML 2024 | 方法 防御 |
+| [AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](paper_list/AdaShield_Safeguarding_Multimodal_Large_Language_Models_from_Structure_based_Attack_via_Adaptive_Shield_Prompting.md) | 2024.5.14 | ECCV 2024 | 方法 防御 |
 
 ## 数据提取与隐私
 
