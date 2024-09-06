@@ -38,12 +38,17 @@
 |---------|-----|------|------|
 | [Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models 不要听我讲：理解和探索大型语言模型的越狱提示](paper_list/Don't_Listen_To_Me:_Understanding_and_Exploring_Jailbreak_Prompts_of_Large_Language_Models.md) | 2023.3.26 | USENIX Security 2024 | 实验 攻击 |
 | [Many shot Jailbreaking 多次越狱](paper_list/Many_shot_Jailbreaking.md) | 2024.4.2 | USENIX Security 2024 | 方法 攻击 |
-|[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](paper_list/AutoDAN_Generating_Stealthy_Jailbreak_Prompts_on_Aligned_Large_Language_Models.md)|2024.5.20|ICML 2024|方法 攻击|
-|[A Comprehensive Study of Jailbreak Attack versus Defense for Large  Language Models](paper_list/A_Comprehensive_Study_of_Jailbreak_Attack_versus_Defense_for_Large_Language_Models.md)|2024.5.17|ICML 2024|方法 防御|
-|[GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis ](paper_list/GradSafe_Detecting_Unsafe_Prompts_for_LLMs_via_Safety_Critical_Gradient_Analysis.md)|2024.5.29|ACL 2024|方法 防御|
-| [SafeDecoding: Defending against Jailbreak Attacks  via Safety-Aware Decoding](paper_list/SafeDecoding_Defending_against_Jailbreak_Attacks_via_Safety_Aware_Decoding.md) | 2024.8.22 | ACL 2024 | 方法 防御 |
-| [Multilingual Jailbreak Challenges in Large Language Models](paper_list/Multilingua_Jailbreak_Challenges_in_Large_Language_Models.md) | 2024.3.4 | ICML 2024 | 方法 防御 |
-| [AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](paper_list/AdaShield_Safeguarding_Multimodal_Large_Language_Models_from_Structure_based_Attack_via_Adaptive_Shield_Prompting.md) | 2024.5.14 | ECCV 2024 | 方法 防御 |
+|[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models AutoDAN： 在对齐的大型语言模型上生成隐蔽的越狱提示](paper_list/AutoDAN_Generating_Stealthy_Jailbreak_Prompts_on_Aligned_Large_Language_Models.md)|2024.5.20|ICML 2024|方法 攻击|
+|[PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition PARDEN，您能再说一遍吗？通过重复防御越狱](paper_list/A_Comprehensive_Study_of_Jailbreak_Attack_versus_Defense_for_Large_Language_Models.md)|2024.5.14|ICML 2024|方法 防御|
+|[GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis GradSafe：通过安全关键梯度分析检测 LLM 的 越狱提示](paper_list/GradSafe_Detecting_Unsafe_Prompts_for_LLMs_via_Safety_Critical_Gradient_Analysis.md)|2024.5.29|ACL 2024|方法 防御|
+| [SafeDecoding: Defending against Jailbreak Attacks  via Safety-Aware Decoding SafeDecoding： 通过安全感知解码防御越狱攻击](paper_list/SafeDecoding_Defending_against_Jailbreak_Attacks_via_Safety_Aware_Decoding.md) | 2024.8.22 | ACL 2024 | 方法 防御 |
+| [Multilingual Jailbreak Challenges in Large Language Models 大语言模型中的多语言越狱挑战](paper_list/Multilingua_Jailbreak_Challenges_in_Large_Language_Models.md) | 2024.3.4 | ICML 2024 | 方法 防御 |
+| [AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting  AdaShield：通过 Adaptive Shield Prompting 保护多模态大型语言模型免受基于结构的攻击](paper_list/AdaShield_Safeguarding_Multimodal_Large_Language_Models_from_Structure_based_Attack_via_Adaptive_Shield_Prompting.md) | 2024.5.14 | ECCV 2024 | 方法 防御 |
+
+## 后门攻击
+| 论文标题 | 日期 | 发布 | 标签 |
+|-------|------|-----------|-----|
+| [TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models TrojLLM： 针对大型语言模型的黑盒木马提示攻击](paper_list/TrojLLM_A_Black-box_Trojan_Prompt_Attack_on_Large_Language_Models.md) | 2023.12.7 | NeurlPS 2024 | 方法 攻击 |
 
 ## 数据提取与隐私
 

@@ -42,11 +42,16 @@ Join us in exploring the cutting-edge of AI security and contribute to a safer f
 | [Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models](paper_list/Don't_Listen_To_Me:_Understanding_and_Exploring_Jailbreak_Prompts_of_Large_Language_Models.md) | 2023.3.26 | USENIX Security 2024 | Experiment Attack |
 | [Many shot Jailbreaking](paper_list/Many_shot_Jailbreaking.md) | 2024.4.2 | USENIX Security 2024 | Method Attack |
 |[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](paper_list/AutoDAN_Generating_Stealthy_Jailbreak_Prompts_on_Aligned_Large_Language_Models.md)|2024.5.20|ICML 2024|Method Attack|
-|[A Comprehensive Study of Jailbreak Attack versus Defense for Large  Language Models](paper_list/A_Comprehensive_Study_of_Jailbreak_Attack_versus_Defense_for_Large_Language_Models.md)|2024.5.17|ICML 2024|Method Defense|
+|[PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition](paper_list/A_Comprehensive_Study_of_Jailbreak_Attack_versus_Defense_for_Large_Language_Models.md)|2024.5.14|ICML 2024|Method Defense|
 |[GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis ](paper_list/GradSafe_Detecting_Unsafe_Prompts_for_LLMs_via_Safety_Critical_Gradient_Analysis.md)|2024.5.29|ACL 2024|Method Defense|
 | [SafeDecoding: Defending against Jailbreak Attacks  via Safety-Aware Decoding](paper_list/SafeDecoding_Defending_against_Jailbreak_Attacks_via_Safety_Aware_Decoding.md) | 2024.8.22 | ACL 2024 | Method Defense |
 | [Multilingual Jailbreak Challenges in Large Language Models](paper_list/Multilingua_Jailbreak_Challenges_in_Large_Language_Models.md) | 2024.3.4 | ICML 2024 | Method Defense |
 | [AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](paper_list/AdaShield_Safeguarding_Multimodal_Large_Language_Models_from_Structure_based_Attack_via_Adaptive_Shield_Prompting.md) | 2024.5.14 | ECCV 2024 | Method Defense |
+
+## Backdoor Attack
+| Title | Date | Published | Tag |
+|-------|------|-----------|-----|
+| [TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models](paper_list/TrojLLM_A_Black-box_Trojan_Prompt_Attack_on_Large_Language_Models.md) | 2023.12.7 | NeurlPS 2024 | Method Attack |
 
 ## Data extraction & privacy
 

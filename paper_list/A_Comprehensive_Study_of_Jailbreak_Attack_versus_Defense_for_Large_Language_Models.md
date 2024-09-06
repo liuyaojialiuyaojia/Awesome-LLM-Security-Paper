@@ -1,10 +1,10 @@
-# A Comprehensive Study of Jailbreak Attack versus Defense for Large  Language Models #
+# PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition #
 ICML 2024
 
 [paper](https://arxiv.org/abs/2402.13457)
 
 ## Abstract ##
-| en | ch |  
+| en | ch |
 | --- | --- |  
 | Large Language Models (LLMS) have increasingly become central to generating content with potential societal impacts. Notably, these models have demonstrated capabilities for generating content that could be deemed harmful. To mitigate these risks, researchers have adopted safety training techniques to align model outputs with societal values to curb the generation of malicious content. However, the phenomenon of "jailbreaking", where carefully crafted prompts elicit harmful responses from models, persists as a significant challenge. This research conducts a comprehensive analysis of existing studies on jailbreaking LLMs and their defense techniques. We meticulously investigate nine attack techniques and seven defense techniques applied across three distinct language models: Vicuna, LLama, and GPT-3.5 Turbo. We aim to evaluate the effectiveness of these attack and defense techniques. Our findings reveal that existing white-box attacks underperform compared to universal techniques and that including special tokens in the input significantly affects the likelihood of successful attacks. This research highlights the need to concentrate on the security facets of LLMs. Additionally, we contribute to the field by releasing our datasets and testing framework, aiming to foster further research into LLM security. We believe these contributions will facilitate the exploration of security measures within this domain. | 大型语言模型（LLMs）在生成具有潜在社会影响的内容方面日益成为核心技术。值得注意的是，这些模型已经显示出生成可能被认为是有害的内容的能力。为了减少这些风险，研究人员采用了安全培训技术，以使模型输出符合社会价值观，以抑制恶意内容的生成。然而，“越狱”现象，即通过精心设计的提示诱导模型产生有害反应，仍然是一个重大挑战。本研究对现有关于越狱LLMs及其防御技术的研究进行了全面分析。我们对九种攻击技术和七种防御技术进行了细致的研究，这些技术被应用于三种不同的语言模型：Vicuna、LLama和GPT-3.5 Turbo。我们的目标是评估这些攻击和防御技术的有效性。我们的发现显示，现有的白盒攻击表现不如通用技术，而在输入中包含特殊标记显著影响成功攻击的可能性。这项研究强调了需要关注LLMs的安全方面。此外，我们通过发布我们的数据集和测试框架，为该领域的进一步研究做出了贡献。我们相信这些贡献将有助于在此领域探索安全措施。 |
 
